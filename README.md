@@ -16,7 +16,7 @@
     <p class="c3 c10"><span class="c4"></span></p>
     <p class="c10 c29 title" id="h.x7fdft9xi41l"><span class="c7 c14"></span></p>
     <p class="c29 title" id="h.l8sb59ps56x9"><span class="c14 c7">Under the Guidance of</span></p>
-    <p class="c29 title" id="h.bj1k0pzhv4po"><span class="c14 c7">Dr Aruna Tiwari</span></p>
+    <h4 class="c0" id="h.bj1k0pzhv4po"><span class="c36">Dr Aruna Tiwari</span></h4>
     <p class="c8"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 172.00px; height: 197.00px;"><img alt="" src="images/image19.png" style="width: 216.79px; height: 197.00px; margin-left: -25.16px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
     <p
         class="c8 c10 c31"><span class="c4"></span></p>
