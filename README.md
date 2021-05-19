@@ -4,13 +4,13 @@
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
 </head>
 
-<body class="c43" style="text-align:center">
+<body class="c43">
     <h2><span class="c7 c32">PROJECT REPORT</span></h2>
     <h1 class="c29 title" id="h.gfq3p6qputkr"><span class="c21 c32">HUMAN ACTIVITY RECOGNITION USING SMARTPHONE DATASET</span></h1>
     <p class="c3 c10"><span class="c4"></span></p>
     <p class="c3 c10"><span class="c4"></span></p>
     <p class="c3 c10"><span class="c4"></span></p>
-    <h4 class="c0" id="h.skx86xeedyvt"><span class="c36">Adarsh Baghel 180001001</span></h4>
+    <h4 class="c0" id="h.skx86xeedyvt"><span class="c36" align="center">Adarsh Baghel 180001001</span></h4>
     <h4 class="c0" id="h.hkga0r456u1o"><span class="c36">Jeevan Reddy 180001039</span></h4>
     <h4 class="c0" id="h.hkga0r456u1o-1"><span class="c36">Ubaid Shaikh 180001050</span></h4>
     <p class="c3 c10"><span class="c4"></span></p>
