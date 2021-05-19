@@ -1,10 +1,10 @@
-<html align="center">
+<html>
 
 <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
 </head>
 
-<body class="c43">
+<body class="c43" style="text-align:center">
     <h2><span class="c7 c32">PROJECT REPORT</span></h2>
     <h1 class="c29 title" id="h.gfq3p6qputkr"><span class="c21 c32">HUMAN ACTIVITY RECOGNITION USING SMARTPHONE DATASET</span></h1>
     <p class="c3 c10"><span class="c4"></span></p>
