@@ -10,7 +10,7 @@
     <p class="c3 c10"><span class="c4"></span></p>
     <p class="c3 c10"><span class="c4"></span></p>
     <p class="c3 c10"><span class="c4"></span></p>
-    <h4 class="c0" id="h.skx86xeedyvt"><span class="c36" align="center">Adarsh Baghel 180001001</span></h4>
+    <h4 class="c0" id="h.skx86xeedyvt"><span class="c36">Adarsh Baghel 180001001</span></h4>
     <h4 class="c0" id="h.hkga0r456u1o"><span class="c36">Jeevan Reddy 180001039</span></h4>
     <h4 class="c0" id="h.hkga0r456u1o-1"><span class="c36">Ubaid Shaikh 180001050</span></h4>
     <p class="c3 c10"><span class="c4"></span></p>
